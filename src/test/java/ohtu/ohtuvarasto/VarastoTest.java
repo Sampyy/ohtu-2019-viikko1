@@ -128,7 +128,7 @@ public class VarastoTest {
     @Test
     public void varastonAlkusaldoSuurempiKuinTilavuus()     {
         Varasto varvasto = new Varasto(5, 10);
-        assertEquals(0, varvasto.paljonkoMahtuu(), vertailuTarkkuus);
+        assertEquals(5, varvasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
    
     @Test
