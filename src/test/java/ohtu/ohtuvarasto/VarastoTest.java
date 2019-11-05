@@ -115,7 +115,7 @@ public class VarastoTest {
     
     @Test
     public void varastonAlkutilavuusEiPositiivinen2() {
-        Varasto varvasto = new Varasto(0, 0);
+        Varasto varvasto = new Varasto(-5, 0);
         assertEquals(0, varvasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
     
