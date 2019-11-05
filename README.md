@@ -9,3 +9,5 @@
 
 
 [Viikon 1 tehtävät 14-16](https://github.com/Sampyy/ohtutehtavat/tree/master/viikko1)
+
+[Viikon 2 tehtävät](https://github.com/Sampyy/ohtutehtavat/tree/master/viikko2)
