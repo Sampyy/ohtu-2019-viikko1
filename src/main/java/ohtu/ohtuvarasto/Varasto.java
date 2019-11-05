@@ -26,7 +26,8 @@ public class Varasto {
     }
     
     public double maaritteleSaldo (double tilavuus, double saldo) {
-        if (saldo > this.tilavuus) {
+        if (saldo > this.tilavuus) 
+        {
             return tilavuus;
         }
         if (saldo < 0) {
